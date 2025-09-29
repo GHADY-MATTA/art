@@ -1,0 +1,19 @@
+{
+  "slug": "ink-sparrow-2025",
+  "title": "Ink Sparrow",
+  "year": 2025,
+  "medium": "Ink on paper",
+  "dimensions": "21 x 29.7 cm",
+  "tags": ["ink", "bird", "monochrome"],
+  "cover": "/images/art/ink-sparrow/cover.jpg",
+  "images": [
+    {
+      "src": "/images/art/ink-sparrow/cover.jpg",
+      "alt": "Sparrow in ink, full view - delicate brushwork capturing the bird's essence"
+    }
+  ],
+  "description": "Loose linework captures the delicate essence of a sparrow in flight. The minimal strokes convey movement and life, while the empty space speaks as loudly as the ink itself.",
+  "createdAt": "2025-09-10",
+  "price": "€450",
+  "available": true
+}

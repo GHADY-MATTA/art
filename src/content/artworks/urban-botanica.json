@@ -1,0 +1,19 @@
+{
+  "slug": "urban-botanica",
+  "title": "Urban Botanica",
+  "year": 2024,
+  "medium": "Mixed media on canvas",
+  "dimensions": "50 x 70 cm",
+  "tags": ["mixed-media", "urban", "nature", "color"],
+  "cover": "/images/art/urban-botanica/cover.jpg",
+  "images": [
+    {
+      "src": "/images/art/urban-botanica/cover.jpg",
+      "alt": "Urban Botanica - mixed media artwork showing plants growing through concrete"
+    }
+  ],
+  "description": "A meditation on resilience and growth in urban environments. Vibrant botanical forms emerge from neutral concrete textures, celebrating nature's persistent spirit in the modern world.",
+  "createdAt": "2024-11-15",
+  "price": "€850",
+  "available": true
+}

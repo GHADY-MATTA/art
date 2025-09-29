@@ -1,0 +1,19 @@
+{
+  "slug": "ethereal-forms",
+  "title": "Ethereal Forms",
+  "year": 2024,
+  "medium": "Charcoal and pastel on paper",
+  "dimensions": "40 x 60 cm",
+  "tags": ["charcoal", "abstract", "ethereal", "monochrome"],
+  "cover": "/images/art/ethereal-forms/cover.jpg",
+  "images": [
+    {
+      "src": "/images/art/ethereal-forms/cover.jpg",
+      "alt": "Ethereal Forms - abstract charcoal drawing with flowing, ghostly shapes"
+    }
+  ],
+  "description": "Abstract forms float between reality and dream. Soft charcoal strokes create ghostly apparitions that seem to shift and breathe on the paper's surface.",
+  "createdAt": "2024-08-22",
+  "price": "€620",
+  "available": false
+}
