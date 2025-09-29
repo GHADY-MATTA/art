@@ -64,7 +64,7 @@ export const ArtGrid = ({ artworks, showFilters = false, limit }: ArtGridProps) 
         <div className="space-y-4">
           <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4">
             <h2 className="heading-md">
-              {selectedTags.length > 0 ? 'Filtered Artworks' : 'All Artworks'}
+              {selectedTags.length > 0 ? 'Filtered Artworks' : 'Al Artworks'}
             </h2>
             <p className="body-sm text-muted-foreground">
               {filteredArtworks.length} {filteredArtworks.length === 1 ? 'artwork' : 'artworks'}

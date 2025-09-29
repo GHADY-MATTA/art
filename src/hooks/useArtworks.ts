@@ -1,4 +1,10 @@
 import { useState, useEffect } from 'react';
+// 1) import the new JSON
+import download55Data from '@/content/artworks/download55.json';
+
+// 2) import the image file
+import download55Img from '@/assets/download55.jpg';
+
 
 interface Artwork {
   slug: string;
@@ -27,14 +33,19 @@ import etherealFormsData from '@/content/artworks/ethereal-forms.json';
 import inkSparrowImg from '@/assets/ink-sparrow.jpg';
 import urbanBotanicaImg from '@/assets/urban-botanica.jpg';
 import etherealFormsImg from '@/assets/ethereal-forms.jpg';
-
+// 3) extend the slug -> image mapping
 const artworkImages: Record<string, string> = {
   'ink-sparrow-2025': inkSparrowImg,
   'urban-botanica': urbanBotanicaImg,
   'ethereal-forms': etherealFormsImg,
+  'download55': download55Img,
 };
 
-const rawArtworks = [inkSparrowData, urbanBotanicaData, etherealFormsData];
+
+// 4) include the new JSON in the raw list
+const rawArtworks = [inkSparrowData, urbanBotanicaData, etherealFormsData,download55Data];
+
+
 
 export const useArtworks = () => {
   const [artworks, setArtworks] = useState<Artwork[]>([]);

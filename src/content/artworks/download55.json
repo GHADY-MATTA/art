@@ -1,0 +1,16 @@
+{
+  "slug": "download55",
+  "title": "Download 55",
+  "year": 2025,
+  "medium": "Ink on paper",
+  "dimensions": "21 × 29.7 cm",
+  "tags": ["ink", "monochrome"],
+  "cover": "/src/assets/download55.jpg",
+  "images": [
+    { "src": "/src/assets/download55.jpg", "alt": "Full view of Download 55" }
+  ],
+  "description": "New piece added to the gallery.",
+  "createdAt": "2025-09-29",
+  "available": true,
+  "price": "On request"
+}
